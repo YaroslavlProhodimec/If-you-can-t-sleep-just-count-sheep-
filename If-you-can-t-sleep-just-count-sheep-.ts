@@ -12,3 +12,6 @@ if(num === 0) return ''
 console.log(countSheep(1))
 console.log(countSheep(2))
 console.log(countSheep(3))
+console.log(countSheep(3))
+console.log(countSheep(3))
+console.log(countSheep(3))
